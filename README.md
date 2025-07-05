@@ -1,6 +1,4 @@
-# IFB104-Assignment-2
-
-Python code for Assignment 2 of IFB104 Building IT Systems
+# Blue-Mushmom-Fact-Checker
 
 Use TKinter python module to display a graphical user interface for the latest newspaper articles of three popular newspaper outlets
 
