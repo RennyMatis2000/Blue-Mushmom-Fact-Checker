@@ -1,6 +1,3 @@
-# A function for exiting the program immediately 
-from sys import exit as abort
-
 # A function for opening a web document given its URL
 from urllib.request import urlopen
 
